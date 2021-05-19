@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css?family=Butterfly+Kids|Roboto');
+
+* {
+    font-size: 100%;
+    font-family: 'Roboto', sans-serif;
+}
+
+::-webkit-scrollbar-track {
+    border-radius: 0.125rem;
+    background-color: hsl(0, 100%, 99%, 0);
+  }
+  ::-webkit-scrollbar {
+    width: 0.25rem;
+    border-radius: 0.125rem;
+  }
+  ::-webkit-scrollbar-thumb {
+    border-radius: 0.225rem;
+    background-color: hsl(0, 100%, 99%, 0);}
+
+#root {
+    height: 1000px;
+    background-image: url("tgkarte.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.statheader {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.statistik-outer {
+    display: felx;
+    justify-content: center;
+    align-self: center;
+}
+
+
+.jahr {
+    padding-right: 1rem;
+}
+
+.grid {
+    padding: 5rem 10rem 1rem 10rem;
+    display: grid;
+    gap: 2rem;
+    justify-content: center;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+}
+
+.item {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    box-shadow: 0 0 1rem rgb(233, 233, 233);
+    background-color: white;
+    border-radius: 25px;
+    transition: transform .2s;
+}
+
+.item:hover {
+    transform: scale(1.1);
+  }
+
+.pie {
+    padding: 1rem 1rem 1rem 1rem;
+}
+
+.title{
+    padding: 1rem 1rem 1rem 1rem;
+}
+
+.stats {
+    padding: 1rem 1rem 1rem 1rem;
+}
