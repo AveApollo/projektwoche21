@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.788f2eef.chunk.css",
+    "main.js": "/static/js/main.e03b0d08.chunk.js",
+    "main.js.map": "/static/js/main.e03b0d08.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.02ba0f2c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.02ba0f2c.js.map",
+    "static/js/2.c1787bca.chunk.js": "/static/js/2.c1787bca.chunk.js",
+    "static/js/2.c1787bca.chunk.js.map": "/static/js/2.c1787bca.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.788f2eef.chunk.css.map": "/static/css/main.788f2eef.chunk.css.map",
+    "static/js/2.c1787bca.chunk.js.LICENSE.txt": "/static/js/2.c1787bca.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/veritas.13cb7532.png",
+    "static/media/info.d4b1d7b4.png": "/static/media/info.d4b1d7b4.png",
+    "static/media/thurgau1.7bc1c98d.jpg": "/static/media/thurgau1.7bc1c98d.jpg",
+    "static/media/thurgau10.8012f2e7.jpg": "/static/media/thurgau10.8012f2e7.jpg",
+    "static/media/thurgau11.888f4146.jpg": "/static/media/thurgau11.888f4146.jpg",
+    "static/media/thurgau12.105902b2.jpg": "/static/media/thurgau12.105902b2.jpg",
+    "static/media/thurgau2.e5eb6ecb.jpg": "/static/media/thurgau2.e5eb6ecb.jpg",
+    "static/media/thurgau3.9214d60e.jpg": "/static/media/thurgau3.9214d60e.jpg",
+    "static/media/thurgau4.c22ebd72.jpg": "/static/media/thurgau4.c22ebd72.jpg",
+    "static/media/thurgau7.4d8264ad.jpg": "/static/media/thurgau7.4d8264ad.jpg",
+    "static/media/thurgau8.249446a6.jpg": "/static/media/thurgau8.249446a6.jpg",
+    "static/media/thurgau9.086755ef.jpg": "/static/media/thurgau9.086755ef.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02ba0f2c.js",
+    "static/js/2.c1787bca.chunk.js",
+    "static/css/main.788f2eef.chunk.css",
+    "static/js/main.e03b0d08.chunk.js"
+  ]
+}
