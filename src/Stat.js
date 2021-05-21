@@ -494,7 +494,7 @@ function App() {
               <h1>Spiel</h1>
             </div>
             <div className="item" id="ch3" onClick={scrollgal}>
-              <h1>Gallerie</h1>
+              <h1>Galerie</h1>
             </div>
           </div>
           <div className="topitem9"></div>
@@ -1021,7 +1021,7 @@ function Gallerie() {
     <div>
       <div className="centertitle">
         <h1 className="titlegal" id="sg">
-          Gallerie
+          Galerie
         </h1>
       </div>
       <div className="gridcenter">
