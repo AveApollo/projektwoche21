@@ -22,7 +22,7 @@ import { Pie } from "react-chartjs-2";
 import { Line } from "react-chartjs-2";
 
 var data = [];
-var ready = false;
+var ready = true;
 var piedataone = {};
 var piedatatwo = {};
 var piedatathree = {};
