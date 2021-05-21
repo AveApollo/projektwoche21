@@ -505,8 +505,8 @@ function App() {
           <div className="sp3"></div>
         </div>
         <div className="statistik-outer">
-          <div className="statistik-inner">
-            <div id="st" className="statheader" id="zindex">
+          <div className="statistik-inner" id="st">
+            <div className="statheader" id="zindex">
               <label
                 className="block md:text-right mb-1 md:mb-0 pr-4"
                 for="ddjahr"

@@ -50,7 +50,7 @@ body {
 
 @media only screen and (min-width: 1290px) {
     .grid {
-        padding: 5rem 7rem 1rem 7rem;
+        padding: 5rem 3rem 1rem 3rem;
         display: grid;
         gap: 2rem;
         justify-content: center;

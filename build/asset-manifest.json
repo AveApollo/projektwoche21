@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.788f2eef.chunk.css",
-    "main.js": "/static/js/main.e03b0d08.chunk.js",
-    "main.js.map": "/static/js/main.e03b0d08.chunk.js.map",
+    "main.css": "/static/css/main.5ef13a25.chunk.css",
+    "main.js": "/static/js/main.a8619e87.chunk.js",
+    "main.js.map": "/static/js/main.a8619e87.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.02ba0f2c.js",
     "runtime-main.js.map": "/static/js/runtime-main.02ba0f2c.js.map",
-    "static/js/2.c1787bca.chunk.js": "/static/js/2.c1787bca.chunk.js",
-    "static/js/2.c1787bca.chunk.js.map": "/static/js/2.c1787bca.chunk.js.map",
+    "static/js/2.f7462d1e.chunk.js": "/static/js/2.f7462d1e.chunk.js",
+    "static/js/2.f7462d1e.chunk.js.map": "/static/js/2.f7462d1e.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.788f2eef.chunk.css.map": "/static/css/main.788f2eef.chunk.css.map",
-    "static/js/2.c1787bca.chunk.js.LICENSE.txt": "/static/js/2.c1787bca.chunk.js.LICENSE.txt",
+    "static/css/main.5ef13a25.chunk.css.map": "/static/css/main.5ef13a25.chunk.css.map",
+    "static/js/2.f7462d1e.chunk.js.LICENSE.txt": "/static/js/2.f7462d1e.chunk.js.LICENSE.txt",
     "static/media/App.css": "/static/media/veritas.13cb7532.png",
     "static/media/info.d4b1d7b4.png": "/static/media/info.d4b1d7b4.png",
     "static/media/thurgau1.7bc1c98d.jpg": "/static/media/thurgau1.7bc1c98d.jpg",
@@ -25,8 +25,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.02ba0f2c.js",
-    "static/js/2.c1787bca.chunk.js",
-    "static/css/main.788f2eef.chunk.css",
-    "static/js/main.e03b0d08.chunk.js"
+    "static/js/2.f7462d1e.chunk.js",
+    "static/css/main.5ef13a25.chunk.css",
+    "static/js/main.a8619e87.chunk.js"
   ]
 }
