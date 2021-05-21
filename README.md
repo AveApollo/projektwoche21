@@ -4,10 +4,6 @@ Dieses Projekt wurde mit [Create React App](https://github.com/facebook/create-r
 
 Um diese App local öfnnen zu können befolgen Sie bitte die folgenden Schritte
 
-## Webapp
-
-Sie können auf die App über diese [Netlify Website](https://lernende-thurgau.netlify.app) zugreifen. 
-
 ## App local öffnen
 
 
@@ -23,7 +19,7 @@ Falls keine Version ausgegeben wurde, können sie mit dem folgenden command die 
 
 ### 2. Node module installieren
 
-Da man auf GitHub keine Node module hochladen kann, müssen Sie diese herunterladen.
+Da man auf github keine Node module hochladen kann, müssen Sie diese herunterladen.
 Gehen sie dazu in den root Ordner und führen sie diesen Befehl aus: `npm i`
 
 Nachdem alle module heruntergeladen sind können sie mit dem nächsten Schritt weiter machen.

@@ -482,7 +482,7 @@ function App() {
             <p id="utitle">
               Diese Website gewährt den Zugriff auf die Daten aller Lernenden
               des Kantons Thurgau.<br></br>
-              "Aus grosser Kraft folgt grosse Verantwortung."<br></br> -Stan Lee
+              “I may not have gone where I intended to go, but I think I have ended up where I needed to be.” <br></br> - Douglas Adams
             </p>
           </div>
           <div className="topitem7"></div>
