@@ -4,6 +4,14 @@ Dieses Projekt wurde mit [Create React App](https://github.com/facebook/create-r
 
 Um diese App local öfnnen zu können befolgen Sie bitte die folgenden Schritte
 
+
+
+## WebApp im Browser öffnen
+
+Die Webapp kann unter dieser von  Netlify gehosteten [Website](https://lernende-thurgau.netlify.app) betrachtet werden.
+Die Website funktioniert in jedem Browser jedoch ist es empfohlen Chrome zu nutzen.
+
+
 ## App local öffnen
 
 
